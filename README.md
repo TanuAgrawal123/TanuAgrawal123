@@ -18,18 +18,20 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanuagrawal123&show_icons=true&theme=radical&line_height=27"  />
 </a>
 <br>
-<a href="#">
+<br>
+<a href="https://github.com/TanuAgrawal123/100DaysOfCode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanuagrawal123&repo=100DaysOfCode&theme=radical" />
   </a>
  
-<a href="#">
+<a href="https://github.com/TanuAgrawal123/StudyApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanuagrawal123&repo=StudyApp&theme=radical" />
   </a>
 <br>
-<a href="#">
+
+<a href="https://github.com/TanuAgrawal123/myportfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanuagrawal123&repo=myportfolio&theme=radical" />
   </a>
 
-<a href="#">
+<a href="https://github.com/TanuAgrawal123/Complete-DS_Algo-with-Python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanuagrawal123&repo=Complete-DS_Algo-with-Python&theme=radical" />
   </a>
