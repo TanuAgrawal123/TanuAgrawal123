@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**TanuAgrawal123/TanuAgrawal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am currently a student of 3rd Yr pursuing for my B.Tech degree in Computer Science and Engineering from Bundelkhand Institute of Engineering and Technology, Jhansi. I love coding and designing websites. I am very much passionate about my work and have big dreams. My strength is my family and the people around me.
 
 Here are some ideas to get you started:
 
