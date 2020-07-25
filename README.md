@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am currently a student of 3rd Yr pursuing for my B.Tech degree in Computer Science and Engineering from Bundelkhand Institute of Engineering and Technology, Jhansi. I love coding and designing websites. I am very much passionate about my work and have big dreams. My strength is my family and the people around me.
+##### I am currently a student of 3rd Yr pursuing for my B.Tech degree in Computer Science and Engineering from Bundelkhand Institute of Engineering and Technology, Jhansi. I love coding and designing websites. I am very much passionate about my work and have big dreams. My strength is my family and the people around me.
 
 
 - 💻  Curious to Know About me? https://tanuagrawal-portfolio.herokuapp.com/
@@ -8,5 +8,22 @@
 
 
 
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-<img src ="https://github-readme-stats.vercel.app/api?username=tanuagrawal123&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"/>
+ 
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanuagrawal123&show_icons=true&theme=radical&line_height=27"  />
+</a>
+<br>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanuagrawal123&repo=100DaysOfCode&theme=radical" />
+  </a>
+ 
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanuagrawal123&repo=StudyApp&theme=radical" />
+  </a>
+<br>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanuagrawal123&repo=myportfolio&theme=radical" />
+  </a>
+
