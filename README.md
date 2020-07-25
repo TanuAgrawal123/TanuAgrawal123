@@ -9,7 +9,10 @@
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
+<br>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanuagrawal123&show_icons=true&theme=radical&line_height=27"  />
+</a>
  
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanuagrawal123&show_icons=true&theme=radical&line_height=27"  />
@@ -27,3 +30,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanuagrawal123&repo=myportfolio&theme=radical" />
   </a>
 
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanuagrawal123&repo=Complete-DS_Algo-with-Python&theme=radical" />
+  </a>
