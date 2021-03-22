@@ -5,7 +5,7 @@
 
 - 💻  Curious to Know About me? https://tanuagrawal-portfolio.herokuapp.com/ .
 - 📫 How to reach me: tanuagrawal1389@gmail.com, [Linkedin - @tanuagrawal](https://www.linkedin.com/in/tanuagrawal/).
-- 💻 Resume : [Link](https://github.com/TanuAgrawal123/Resume/blob/master/resume%20(8).pdf )
+- 💻 Resume : [Link](https://github.com/TanuAgrawal123/Resume/blob/master/tanu_agrawal_resume%20(2).pdf )
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
