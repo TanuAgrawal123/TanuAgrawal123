@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### I am currently a student of 4th Yr pursuing for my B.Tech degree in Computer Science and Engineering from Bundelkhand Institute of Engineering and Technology, Jhansi. I love coding and designing websites. I am very much passionate about my work and have big dreams. My strength is my family and the people around me.
+##### I love designing website and writing backend logic. I am a good learner, have positive attitude and commiited to my work.
 
 
 - 💻  Curious to Know About me? https://tanuagrawal-portfolio.herokuapp.com/ .
