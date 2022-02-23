@@ -1,19 +1,26 @@
-### Hi there 👋
 
-✔️ I am Tanu Agrawal, a Software Engineer at Amazon.
-
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ 
+✔️ I am Tanu Agrawal, a Software Engineer at Amazon .
+<br><br>
 ✔️ I am interested in development part and love to do competititve coding.
+<br><br>
+✔️ Curious to Know About me? https://tanuagrawal-portfolio.herokuapp.com/ .
 
-✔️ 💻  Curious to Know About me? https://tanuagrawal-portfolio.herokuapp.com/ .
+✔️ Resume : [Link](https://github.com/TanuAgrawal123/Resume/blob/master/tanu_agrawal_resume%20(2).pdf ) .
+<br>
 
-✔️ 📫 How to reach me: <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-TanuAgrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanuagrawal/)](https://www.linkedin.com/in/tanuagrawal/) [![Gmail Badge](https://img.shields.io/badge/-tanuagrawal1389@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanuagrawal1389@gmail.com)](mailto:tanuagrawal1389@gmail.com)
-
-✔️💻 Resume : [Link](https://github.com/TanuAgrawal123/Resume/blob/master/tanu_agrawal_resume%20(2).pdf )
-
-
-
-</br>
+####  Let's Connect: 
+ 
+<a href="https://www.instagram.com/me_tanu_agrawal/">
+  <img align="left" alt="Tanu's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a><a href="https://twitter.com/me_tanu_agrawal">
+  <img align="left" alt="Tanu Agrawal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a><a href="https://www.linkedin.com/in/tanuagrawal/">
+  <img align="left" alt="Tanu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br>
+<br>
 <!--NOMINATION FOR STAR GIT LINK CODE-->
 <a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
 
