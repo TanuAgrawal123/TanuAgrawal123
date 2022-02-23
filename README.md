@@ -49,7 +49,7 @@
  
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/rTanuAgrawal123/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/TanuAgrawal123/count.svg?align=center)
 
 
 <!-- GITHUB STATISTICS -->
