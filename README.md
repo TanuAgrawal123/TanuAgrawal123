@@ -7,7 +7,7 @@
 <br><br>
 ✔️ Curious to Know About me? https://tanuagrawal-portfolio.herokuapp.com/ .
 
-✔️ Resume : [Link](https://github.com/TanuAgrawal123/Resume/blob/master/tanu_agrawal_resume%20(2).pdf ) .
+✔️ Resume : [Link](https://github.com/TanuAgrawal123/Resume/blob/master/tanu___.pdf) .
 <br>
 
 ####  Let's Connect: 
