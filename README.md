@@ -10,6 +10,8 @@
 ✔️ Resume : [Link](https://github.com/TanuAgrawal123/Resume/blob/master/tanu___.pdf) .
 <br>
 
+✔️ Medium Link : https://medium.com/@tanuagrawal1389
+<br>
 ####  Let's Connect: 
  
 <a href="https://www.instagram.com/me_tanu_agrawal/">
