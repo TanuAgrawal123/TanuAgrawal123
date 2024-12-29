@@ -1,11 +1,11 @@
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
-✔️ I am Tanu Agrawal, a Software Engineer at **Amazon**.
+✔️ I am Tanu Agrawal, a Software Engineer.
 <br><br>
 ✔️ I am interested in development part and love to do competititve coding.
 <br><br>
-✔️ Curious to Know About me? https://tanuagrawal-portfolio.herokuapp.com/ .
+✔️ Curious to Know About me? https://www.linkedin.com/in/tanuagrawal/
 
 ✔️ Resume : [Link](https://github.com/TanuAgrawal123/Resume/blob/master/tanu___.pdf) .
 <br>
@@ -14,12 +14,12 @@
 <br>
 ####  Let's Connect: 
  
-<a href="https://www.instagram.com/me_tanu_agrawal/">
+<a href="https://www.instagram.com/soul__1304/)">
   <img align="left" alt="Tanu's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a><a href="https://twitter.com/me_tanu_agrawal">
-  <img align="left" alt="Tanu Agrawal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Tanu Agrawal | Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
 </a><a href="https://www.linkedin.com/in/tanuagrawal/">
-  <img align="left" alt="Tanu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Tanu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 <br>
 <br>
