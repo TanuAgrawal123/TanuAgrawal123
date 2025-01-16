@@ -10,7 +10,10 @@
 ✔️ Resume : [Link](https://github.com/TanuAgrawal123/Resume/blob/master/tanu___.pdf) .
 <br>
 
-✔️ Medium Link : https://medium.com/@tanuagrawal1389
+✔️ Medium [Link](https://medium.com/@tanuagrawal1389)
+
+✔️ Leetcode [Link](https://leetcode.com/tanuagrawal)
+
 <br>
 ####  Let's Connect: 
  
