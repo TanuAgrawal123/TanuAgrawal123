@@ -17,8 +17,6 @@
 
 ####  Let's Connect: 
  
-<a href="https://www.instagram.com/soul__1304/)">
-  <img align="left" alt="Tanu's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a><a href="https://twitter.com/me_tanu_agrawal">
   <img align="left" alt="Tanu Agrawal | Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
 </a><a href="https://www.linkedin.com/in/tanuagrawal/">
